@@ -6,7 +6,8 @@
 **Χρονολογία:** 2022
 
 **Υπερσύνδεσμος πρόσβασης του OER (Παρακαλούμε, όπου αυτό χρειάζεται, για τη χρήση url shortener):**
-
+Στο GITHUB ο συνδεσμος είναι: https://github.com/elinkapeta/Social-sciences_Politics_Economics-  
+Με αναφορά στο άρθρο που δημοσιεύτηκε στο περιοδικό: 
 <https://www.teachinganthropology.org/ojs/index.php/teach_anth/article/view/658> με αναφορά στο διαδραστικό εκπαιδευτικό blog: <https://ourquarantinediaries.blogspot.com/> 
 
 **Σκοπός/πλαίσιο δημιουργίας του OER:** ερευνητική καταγραφή σε ψηφιακή μορφή εμπειριών της καθημερινής ζωής στη διάρκεια της 1<sup>ης</sup> καραντίνας λόγω του Covid-19 εκ μέρους φοιτητών, διδασκόντων και συνεργατών του Τμήματος ΒΣΑΣ του Πανεπιστημίου Μακεδονίας. 
@@ -15,7 +16,7 @@
 
 **Βαθμίδα Εκπαίδευσης:** Τριτοβάθμια Εκπαίδευση 
 
-**Όνομα/Τίτλος OER: “**From Paricticipant Observation to the Observation of Social Distancing: Teaching Ethnography, Blogging and University Education during the Pandemic” 
+**Όνομα/Τίτλος OER: “**Social-sciences_Politics_Economics-” 
 
 **Λέξεις κλειδιά:** Εθνογραφία, κοινωνική έρευνα, κοινωνική ανθρωπολογία, blogs
 
