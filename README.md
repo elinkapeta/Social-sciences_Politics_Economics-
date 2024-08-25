@@ -1,9 +1,7 @@
 # Social-sciences_Politics_Economics-
 ΠΑΡΑΡΤΗΜΑ 3: ΣΧΕΔΙΟ ΔΕΙΓΜΑΤΟΣ
 
-Το Δείγμα περιλαμβάνει περιγραφή των **OERs** του υποψηφίου (γραμματοσειρά Calibri, μέγεθος χαρακτήρων 11, διάστημα 0 και διάστιχο 1,5). **Συμπληρώνεται και αναρτάται για κάθε OER χωριστά**.
-
-![](Aspose.Words.0d52e697-8b20-40af-8058-82ac35ab93a5.003.png)**Δημιουργός/οί:** Kapetanaki Eleni (Elina), Sideri Eleni
+**Δημιουργός/οί:** Kapetanaki Eleni (Elina), Sideri Eleni
 
 **Χρονολογία:** 2022
 
